@@ -28,9 +28,6 @@ I'm Gbadamosi, a frontend Web Developer.
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 
-
-
-#### Bizness
 - :paperclip: [My Resume/CV](https://res.cloudinary.com/dy6qqzift/image/upload/v1616255452/odofin_gbadamosi_20032021_z5kgjy.pdf)
 - :email: odofing@gmail.com
 
