@@ -29,7 +29,7 @@ I'm Gbadamosi, a full-stack web developer and a cloud technology enthusiast!
 [![Nextjs Badge](https://img.shields.io/badge/-Nextjs-3C873A?style=for-the-badge&labelColor=black&logo=next.js&logoColor=3C873A)](#)
 
 
-- :paperclip: [My Resume/CV](https://res.cloudinary.com/dy6qqzift/image/upload/v1616255452/odofin_gbadamosi_20032021_z5kgjy.pdf)
+- :paperclip: [My Resume/CV](https://res.cloudinary.com/dy6qqzift/image/upload/v1655289903/ODOFIN_15062022_xymrvs.pdf)
 - :email: odofing@gmail.com
 
 
